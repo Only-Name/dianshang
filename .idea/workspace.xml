@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabcb64-f89e-429b-9b38-3a9fe9a7bb8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bfabcb64-f89e-429b-9b38-3a9fe9a7bb8f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +108,7 @@
     <session id="-1347939890">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -128,11 +126,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="txt" value="9" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -142,7 +142,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -206,8 +210,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="572" />
-    <option name="width" value="1414" />
+    <option name="x" value="185" />
+    <option name="y" value="105" />
+    <option name="width" value="1415" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectView">
@@ -255,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605598280268" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609229113861" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/package.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -304,15 +309,23 @@
       <workItem from="1605594883140" duration="2327000" />
       <workItem from="1606966233348" duration="394000" />
       <workItem from="1609226972456" duration="151000" />
-      <workItem from="1609227244590" duration="1222000" />
+      <workItem from="1609227244590" duration="1877000" />
     </task>
+    <task id="LOCAL-00001" summary="workspace">
+      <created>1609228529057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609228529058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66457000" />
+    <option name="totallyTimeSpent" value="67112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="458" y="0" width="1131" height="784" extended-state="0" />
+    <frame x="148" y="85" width="1131" height="784" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81885856" visible="true" weight="0.24510717" />
       <window_info id="Structure" order="1" sideWeight="0.18114144" side_tool="true" visible="true" weight="0.24510717" />
@@ -379,6 +392,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,7 +550,11 @@
     <entry file="file://$PROJECT_DIR$/conf.properties" />
     <entry file="file://$PROJECT_DIR$/datadump.iml" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
