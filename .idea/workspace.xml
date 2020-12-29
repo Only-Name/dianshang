@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabcb64-f89e-429b-9b38-3a9fe9a7bb8f" name="Default Changelist" comment="" />
+    <list default="true" id="bfabcb64-f89e-429b-9b38-3a9fe9a7bb8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +108,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1347939890">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -139,6 +151,9 @@
       <find>document</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -171,9 +186,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="30" />
-    <option name="width" value="1365" />
-    <option name="height" value="990" />
+    <option name="x" value="481" />
+    <option name="width" value="1413" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -181,38 +196,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="datadump" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datadump" type="462c0819:PsiDirectoryNode" />
+              <item name="dianshang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianshang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="datadump" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datadump" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datadump" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datadump" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datadump" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datadump" type="462c0819:PsiDirectoryNode" />
+              <item name="dianshang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianshang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="datadump" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="dianshang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dianshang" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datadump" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,17 +291,18 @@
       <workItem from="1602313175825" duration="890000" />
       <workItem from="1605594883140" duration="2327000" />
       <workItem from="1606966233348" duration="394000" />
+      <workItem from="1609226972456" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65084000" />
+    <option name="totallyTimeSpent" value="65235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9457478" visible="true" weight="0.17225201" />
-      <window_info id="Structure" order="1" sideWeight="0.0542522" side_tool="true" visible="true" weight="0.17225201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9441997" visible="true" weight="0.17426273" />
+      <window_info id="Structure" order="1" sideWeight="0.055800293" side_tool="true" visible="true" weight="0.17426273" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -607,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
